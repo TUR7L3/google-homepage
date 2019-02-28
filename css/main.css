@@ -1,0 +1,17 @@
+#top-left{
+    float: left;
+    padding: 10px 0px 0px 10px;
+}
+
+#top-right{
+    float: right;
+    padding: 10px 10px 0px 0px;
+}
+
+.center{
+    display: block;
+    padding-top: 109px;
+    text-align: center;
+}
+
+
